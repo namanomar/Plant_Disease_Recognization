@@ -1,2 +1,3 @@
 plantvillage-dataset/
 env
+trained_models/plant_disease_prediction_model.h5
