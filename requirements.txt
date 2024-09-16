@@ -1,0 +1,4 @@
+numpy
+streamlit
+kaggle
+tensorflow==2.15.0.post1
